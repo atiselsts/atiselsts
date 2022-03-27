@@ -13,7 +13,7 @@ Get in touch if you're interested discussing a research & development projects o
 * embedded software and protocol development (Contiki-NG, TSCH and others)
 * web3 (Uniswap analytics)
 
-In addition to contract research, I'm always open to collaborate on funding proposals (Horizon Europe and others) on IoT, wearables, low-power communication protocols, and similar.
+In addition to contract research, I'm always open to collaborate on funding proposals, such as for Horizon Europe projects, on IoT, wearables, low-power communication protocols, and similar.
 
 ### For students 🎓
 
