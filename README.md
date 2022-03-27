@@ -2,7 +2,7 @@
 
 I'm an IoT researcher at [EDI](https://www.edi.lv/en/) (https://github.com/edi-riga/).
 
-In my free time I sometimes explore web3 — Uniswap and others.
+In my free time I sometimes explore web3 — [Uniswap](https://github.com/atiselsts/uniswap-v3-liquidity-math) and others.
 
 [![Atis's GitHub stats](https://github-readme-stats.vercel.app/api?username=atiselsts)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,7 +17,7 @@ In addition to contract research, I'm always open to collaborate on funding prop
 
 ### For students 🎓
 
-I'm looking for enthusiastic students interested in embedded software development and research. I'm offering supervision for undergraduate and master thesis projects on IoT or DeFi topics.
+I'm looking for enthusiastic students interested in embedded software development and research. I'm offering supervision for undergraduate and master thesis projects on IoT or DeFi topics. Contact me personally, or write to *info (at) edi (dot) lv*.
 
 ### Contacts 📫
 
