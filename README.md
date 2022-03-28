@@ -1,5 +1,3 @@
-### Hi there
-
 I'm an IoT researcher at [EDI](https://www.edi.lv/en/) (https://github.com/edi-riga/).
 
 In my free time I sometimes explore web3 — [Uniswap](https://github.com/atiselsts/uniswap-v3-liquidity-math) and others.
