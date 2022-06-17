@@ -15,7 +15,7 @@ In addition to contract research, I'm always open to collaborate on funding prop
 
 ### For students 🎓
 
-I'm looking for enthusiastic students interested in embedded software development and research. I'm offering supervision for undergraduate and master thesis projects on IoT or DeFi topics. Contact me personally, or write to *info (at) edi (dot) lv*.
+I'm looking for enthusiastic students interested in embedded software development and research. I'm offering supervision for undergraduate and master thesis projects on IoT or DeFi / Ethereum topics. Contact me personally, or write to *info (at) edi (dot) lv*.
 
 ### Contacts 📫
 
