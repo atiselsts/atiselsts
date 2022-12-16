@@ -11,7 +11,7 @@ Get in touch if you're interested discussing a research & development projects o
 * embedded software and protocol development (Contiki-NG, TSCH and others)
 * web3 (Uniswap analytics)
 
-In addition to contract research, I'm always open to collaborate on funding proposals, such as for Horizon Europe projects, on IoT, wearables, low-power communication protocols, and similar.
+I'm open to collaborate on funding proposals, such as for Horizon Europe projects, in the areas of IoT, wearables, low-power communication protocols, and similar.
 
 ### For students 🎓
 
@@ -19,5 +19,5 @@ I'm looking for enthusiastic students interested in embedded software developmen
 
 ### Contacts 📫
 
-To reach me, email *atis.elsts (at) edi (dot) lv* or send a DM on [twitter](https://atiselsts) or [Telegram](https://t.me/atiselsts).
+To reach me, email *atis.elsts (at) edi (dot) lv* or send a DM on [twitter](https://atiselsts).
 
