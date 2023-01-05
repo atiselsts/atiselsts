@@ -9,7 +9,7 @@ In my free time I sometimes explore web3 — [Uniswap](https://github.com/atisel
 Get in touch if you're interested discussing a research & development projects on:
 
 * embedded software and protocol development (Contiki-NG, TSCH and others)
-* web3 (Uniswap analytics)
+* web3 (Uniswap analytics, Solidity or Python apps that connect with Uniswap)
 
 ### For students 🎓
 
