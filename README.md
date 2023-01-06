@@ -1,7 +1,5 @@
 I'm a researcher at [EDI](https://www.edi.lv/en/) (https://github.com/edi-riga/).
 
-In my free time I sometimes explore web3 — [Uniswap](https://github.com/atiselsts/uniswap-v3-liquidity-math) and others.
-
 [![Atis's GitHub stats](https://github-readme-stats.vercel.app/api?username=atiselsts)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Collaboration 🤝
@@ -17,4 +15,4 @@ I'm looking for enthusiastic students interested in embedded software developmen
 
 ### Contacts 📫
 
-To reach me, email *atis.elsts (at) edi (dot) lv* or send a DM on [twitter](https://twitter.com/atiselsts) or Mastodon - @kfx@cryptodon.lol
+To reach me, email *atis.elsts (at) edi (dot) lv* or send a DM on [twitter](https://twitter.com/atiselsts).
