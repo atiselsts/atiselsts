@@ -4,10 +4,10 @@ I'm a researcher at [EDI](https://www.edi.lv/en/) (https://github.com/edi-riga/)
 
 ### Collaboration 🤝
 
-Get in touch if you're interested discussing a research & development projects on:
+Get in touch if you're interested in discussing research & development projects:
 
-* embedded software and protocol development (Contiki-NG, TSCH and others)
-* web3 (Uniswap analytics, Solidity or Python apps that connect with Uniswap)
+* on embedded software and protocol development (Contiki-NG, TSCH and others)
+* on web3 (Uniswap analytics, Solidity or Python apps that connect with Uniswap)
 
 ### For students 🎓
 
