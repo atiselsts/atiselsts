@@ -15,4 +15,4 @@ I'm looking for enthusiastic students interested in embedded software developmen
 
 ### Contacts 📫
 
-To reach me, email *atis.elsts (at) edi (dot) lv* or send a DM on [twitter](https://twitter.com/atiselsts).
+To reach me, email *atis.elsts (at) edi (dot) lv* or send a DM on [twitter](https://twitter.com/atiselsts_eth).
