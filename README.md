@@ -1,10 +1,13 @@
-I'm a researcher at [EDI](https://www.edi.lv/en/) (https://github.com/edi-riga/) interested in the Uniswap protocol.
+I'm a researcher interested in web3 and the Uniswap protocol.
 
 ### Collaboration 🤝
 
-Get in touch if you're interested in discussing research & development projects:
+I'm currently available for consulting roles.
 
-* on web3 - Uniswap analytics, Solidity or Python apps that connect with Uniswap
+Get in touch if you're interested in discussing web3 research & development:
+
+* technical questions about Uniswap protocol, analytics, liquidity provisioning
+* developing protocols that integrate with Uniswap v2/v3/v4
 
 ### For students 🎓
 
