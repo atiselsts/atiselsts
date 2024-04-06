@@ -9,10 +9,6 @@ Get in touch if you're interested in discussing web3 research & development:
 * technical questions about the Uniswap protocol, analytics, liquidity provisioning
 * developing DeFi protocols that integrate with Uniswap v2/v3/v4
 
-### For students 🎓
-
-I'm offering supervision for undergraduate and master thesis projects on Uniswap / DeFi / Ethereum topics, especially for empirical, data-based research, and smart contract security-related research. Don't hesitate to contact me.
-
 ### Contacts 📫
 
-To reach me, email *atis.elsts (at) edi (dot) lv* or send a DM on [twitter](https://twitter.com/atiselsts_eth).
+Best to reach me is via a DM on [twitter](https://twitter.com/atiselsts_eth).
